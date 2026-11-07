@@ -7,12 +7,14 @@
 
 ## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=j-lester1&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jay's GitHub stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=J-Lester1&theme=github_dark" alt="Jay's GitHub stats" width="49%" />
+</p>
+  <p align="center">
   <img src="https://streak-stats.demolab.com/?user=j-lester1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jay's GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-lester1&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=J-Lester1&theme=github_dark" alt="Top languages across public repositories" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-Lester1&theme=github_dark" alt="Jay's GitHub activity summary" />

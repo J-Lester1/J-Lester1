@@ -1,26 +1,21 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px" alt="Developer animation"> I'm Jan Lester Rivera (Jay)</h1>
 
-<img src="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn" alt="Animated banner" width="100%" />
-
 ## 📌 About Me
 - 💡 Full-Stack Engineer and IT Systems Specialist building workflow-focused web applications, REST APIs, and practical automation.
-- 🎓 BS Information Technology, Saint Louis College (2026) · Best Capstone Award and Dean's Lister.
+- 🎓 BS Information Technology, Saint Louis College (2026) Dean's Lister.
 - 📍 San Fernando City, La Union / Quezon City, Philippines
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j-lester1&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=86400" alt="Jay's GitHub stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=j-lester1&show_icons=true&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jay's GitHub stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=j-lester1&theme=nightowl&hide_border=true&cache_seconds=86400" alt="Jay's GitHub streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-lester1&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=j-lester1&layout=compact&theme=nightowl&hide_border=true&langs_count=10&cache_seconds=86400" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=j-lester1&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Jay's GitHub trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=j-lester1&theme=nightowl&radius=10" alt="Jay's GitHub activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=J-Lester1&theme=github_dark" alt="Jay's GitHub activity summary" />
 </p>
 
 ## 🛠️ Languages & Tools
@@ -67,4 +62,4 @@
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 
-<p align="center"><sub>Jay · Full-Stack Engineer & IT Systems Specialist</sub></p>
+<p align="center"><sub>Jan Lester Rivera · Full-Stack Engineer & IT Systems Specialist</sub></p>
